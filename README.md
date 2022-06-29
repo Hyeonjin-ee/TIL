@@ -1,4 +1,4 @@
-# TIL
+# TIL (Today I learn 💡)
 
 
 <h4> ✅ 오늘 배운 것들을 기록해보자 <h4/>
